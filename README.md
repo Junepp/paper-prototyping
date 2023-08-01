@@ -12,6 +12,6 @@ using Moiré-Pattern* for detect spoofing.
 ## in repository  
 1. review.ipynb : paper review notebook  
 2. main.py : end to end function  
-## blog post : 
+## blog post : [Blog](https://ryanheart.tistory.com/11)
 
 </details>
