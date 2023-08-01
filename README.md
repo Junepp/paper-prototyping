@@ -8,10 +8,10 @@
 
 ## paper link : [IEEE](https://ieeexplore.ieee.org/abstract/document/7056504)  
 ## summary
-using Moiré-Pattern* for detect spoofing.  
-Moiré-Pattern* : ?
+using Moiré-Pattern* for detect spoofing.
 ## in repository  
-1. review.ipynb
-2. prototype.ipynb
+1. review.ipynb : paper review notebook  
+2. main.py : end to end function  
+## blog post : 
 
 </details>
